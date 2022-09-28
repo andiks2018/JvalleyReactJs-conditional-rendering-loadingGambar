@@ -12,3 +12,4 @@
 
 
 https://www.youtube.com/watch?v=EMaIhbXqyac
+https://www.showwcase.com/show/17499/react-js-conditional-rendering-props-usestate-css-yarn
